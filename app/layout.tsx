@@ -1,4 +1,3 @@
-// @ts-expect-error CSS side-effect imports are handled by Next.js.
 import "./ui/global.css";
 import { inter } from "./ui/fonts";
 
