@@ -1,0 +1,12 @@
+packages:
+  - .
+allowBuilds:
+  builds: true
+minimumReleaseAge: 2880
+permissions:
+  bcrypt:
+    build: true
+  builds:
+    skills: true
+  sharp:
+    build: true
